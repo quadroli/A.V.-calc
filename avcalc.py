@@ -15,7 +15,7 @@ if answer == ("y"):
  print ("(1)This calculator is typing based only.\n(2)If you enter wrong text you will be taken back to the menu.\n(3)Input data just as prompted then press the enter key once so as to use this calculator correctly.\n(4)When prompted to input numbers do not input the units(only numbers), if you input text the program will crush.\n(5)if you want to customize the calculator right click on the title bar then click on properties.")
  print()
  print ("Finally:")
- print ("(A)This calculator is trademarked by Emmanuel Limisi Muhatia hence no illicit distribution of it.")
+ print ("(A)This calculator now belongs to the community, share it with your friends.")
  print ("(B)Thank you for reading these.")
  print("(C)May you enjoy using it :)")
  print()
